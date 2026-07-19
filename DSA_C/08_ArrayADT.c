@@ -51,5 +51,6 @@ int main(){
 //         scanf("%d", &(a->ptr)[i]);
 //     }
 // }
+//ikjoikjliljmlj
 
 // stack memory is volatile
